@@ -1,0 +1,52 @@
+body {
+    background-color: #171717;
+    color: #f5f5f5;
+    font-family: Arial, sans-serif;
+    margin: 30px;
+}
+h1 {
+    color: #d4af37;
+    text-align: center;
+    font-size: 40px;
+}
+
+hr {
+    border: 1px solid #d4af37;
+}
+
+.description {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.freddie-photo {
+    display: block;
+    width: 400px;
+    max-width: 100%;
+    height: auto;
+    margin: 20px auto;
+    border: 3px solid #d4af37;
+}
+
+.section-title {
+    color: #d4af37;
+    font-size: 22px;
+}
+
+.songs-list {
+    font-size: 18px;
+    line-height: 1.8;
+}
+
+.official-link {
+    color: red !important;
+    font-size: 18px;
+}
+
+.official-link:hover {
+    color: yellow !important;
+}
+.queen-name {
+    color: red;
+    font-size: 24px;
+}
